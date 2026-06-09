@@ -6,8 +6,6 @@ Women Safety Emergency System is a ServiceNow-based application designed to mana
 
 This project was built using ServiceNow App Engine Studio and Flow Designer.
 
----
-
 ## Features
 
 * Emergency alert management
@@ -17,16 +15,12 @@ This project was built using ServiceNow App Engine Studio and Flow Designer.
 * Interactive reports and dashboards
 * Real-time monitoring system
 
----
-
 ## Technologies Used
 
 * ServiceNow App Engine Studio
 * Flow Designer
 * Business Rules
 * Reports & Dashboards
-
----
 
 ## Modules
 
@@ -66,8 +60,6 @@ Women Safety Emergency Dashboard provides:
 * Status tracking
 * Emergency visualization
 
----
-
 ## Project Screenshots
 
 * App Overview
@@ -77,8 +69,6 @@ Women Safety Emergency Dashboard provides:
 * Business Rule
 * Reports
 * Dashboard
-
----
 
 ## Outcome
 
